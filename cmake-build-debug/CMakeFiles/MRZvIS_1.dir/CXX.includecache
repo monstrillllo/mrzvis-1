@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/liza/CLionProjects/MRZvIS_1/Algorithm.cpp
+cmath
+-
+Algorithm.h
+/home/liza/CLionProjects/MRZvIS_1/Algorithm.h
+
+/home/liza/CLionProjects/MRZvIS_1/Algorithm.h
+iostream
+-
+vector
+-
+iomanip
+-
+
+/home/liza/CLionProjects/MRZvIS_1/main.cpp
+iostream
+-
+stdio.h
+/home/liza/CLionProjects/MRZvIS_1/stdio.h
+Algorithm.h
+/home/liza/CLionProjects/MRZvIS_1/Algorithm.h
+vector
+-
+

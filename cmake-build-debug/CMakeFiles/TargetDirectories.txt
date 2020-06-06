@@ -1,0 +1,3 @@
+/home/liza/CLionProjects/MRZvIS_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/liza/CLionProjects/MRZvIS_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/liza/CLionProjects/MRZvIS_1/cmake-build-debug/CMakeFiles/MRZvIS_1.dir
